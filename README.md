@@ -4,12 +4,12 @@
 
 ### Full-Stack Developer | TypeScript | Python | Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;TypeScript+%26+Node.js+Developer;Backend+Developer;Python+%26+Machine+Learning+Learner;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;TypeScript+%26+Node.js+Developer;Backend+Developer;Python+%26+Machine+Learning+Learner;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Manish-Kumar-05">
-  <img src="https://komarev.com/ghpvc/?username=Manish-Kumar-05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Manish-Kumar-05&label=Profile%20Views&style=flat" alt="Profile Views" />
 </a>
 
 </div>
@@ -18,8 +18,8 @@
 
 ## About Me
 
-I'm a Computer Science Engineering student focused on building practical
-software and understanding how systems work under the hood.
+I'm a Computer Science Engineering student focused on building
+practical software and understanding how systems work under the hood.
 
 - Building full-stack applications with **TypeScript**
 - Working with **React, Next.js, Node.js and Express**
@@ -27,28 +27,28 @@ software and understanding how systems work under the hood.
 - Learning **Machine Learning with Python**
 - Exploring **Data Structures, Algorithms and System Design**
 - Interested in backend architecture, databases and scalable systems
-- Currently improving my problem-solving and software engineering skills
+- Improving my problem-solving and software engineering skills
 
-> I prefer building projects to learn concepts rather than only studying them theoretically.
+> I learn by building projects and understanding how things work internally.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Languages
+## Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp" alt="Languages" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp" />
 </p>
 
-**Also:** SQL
+**Also working with:** SQL
 
 ---
 
-### Frontend
+## Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
 - React
@@ -59,10 +59,10 @@ software and understanding how systems work under the hood.
 
 ---
 
-### Backend
+## Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 - Node.js
@@ -72,13 +72,14 @@ software and understanding how systems work under the hood.
 - OAuth
 - Zod
 - BullMQ
+- Background Jobs
 
 ---
 
-### Database & Infrastructure
+## Database & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,prisma" alt="Database technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,prisma" />
 </p>
 
 - PostgreSQL
@@ -86,14 +87,15 @@ software and understanding how systems work under the hood.
 - Redis
 - Database Design
 - Transactions
-- Background Jobs
+- Caching
+- Queues
 
 ---
 
-### Machine Learning & Data Science
+## Machine Learning & Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 - NumPy
@@ -102,17 +104,20 @@ software and understanding how systems work under the hood.
 - Scikit-learn
 - Linear Regression
 - Logistic Regression
+- Ridge Regression
+- Lasso Regression
 - Regularization
 - Cross Validation
-- Model Evaluation
+- Hyperparameter Tuning
 - Classification Metrics
+- ROC-AUC
 
 ---
 
-### Tools & Platforms
+## Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 - Git
@@ -126,15 +131,15 @@ software and understanding how systems work under the hood.
 
 # Featured Projects
 
-## 1. Hurry — Appointment Booking SaaS
+## Hurry — Appointment Booking SaaS
 
 A full-stack appointment booking platform for managing services,
 availability, bookings and calendar integrations.
 
 ### Tech Stack
 
-`TypeScript` `Next.js` `React` `Express` `PostgreSQL` `Prisma`
-`Redis` `BullMQ` `JWT` `OAuth` `Google Calendar API`
+`TypeScript` `Next.js` `React` `Express` `PostgreSQL`
+`Prisma` `Redis` `BullMQ` `JWT` `OAuth`
 
 ### Features
 
@@ -147,16 +152,17 @@ availability, bookings and calendar integrations.
 - Google Calendar integration
 - Background jobs
 - Email notifications
-- Redis-based queues
+- Redis queues
 - PostgreSQL database
+- Transaction-based operations
 
 <a href="https://github.com/Manish-Kumar-05/AppointmentBookingSaas">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
-## 2. Mini Search Engine
+## Mini Search Engine
 
 A search engine built from scratch using TypeScript to understand
 how search systems work internally.
@@ -166,7 +172,7 @@ how search systems work internally.
 - Tokenization
 - Text normalization
 - Stop-word removal
-- Inverted index
+- Inverted Index
 - Term frequency
 - Boolean search
 - AND / OR / NOT operations
@@ -178,16 +184,18 @@ how search systems work internally.
 `TypeScript` `Node.js` `Data Structures` `Inverted Index`
 
 <a href="https://github.com/Manish-Kumar-05/Mini-Search-Engine">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
 # Machine Learning Journey
 
-Currently working through Machine Learning fundamentals with Python.
+I'm currently learning Machine Learning with Python, focusing on
+understanding the concepts behind the algorithms rather than
+only using libraries.
 
-### Topics I've worked with
+### Currently Exploring
 
 ```text
 Linear Regression
@@ -207,20 +215,3 @@ ROC-AUC
 Cross Validation
        ↓
 Hyperparameter Tuning
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Manish-Kumar-05/Manish-Kumar-05/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Manish-Kumar-05/Manish-Kumar-05/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/Manish-Kumar-05/Manish-Kumar-05/output/github-contribution-grid-snake.svg"
-  />
-</picture>
