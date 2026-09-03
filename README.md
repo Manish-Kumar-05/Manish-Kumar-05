@@ -195,8 +195,24 @@ I'm currently learning Machine Learning with Python, focusing on
 understanding the concepts behind the algorithms rather than
 only using libraries.
 
-<h2 align="center">Contribution Graph</h2>
+### Currently Exploring
 
+```mermaid
+graph TD
+    A[Linear Regression] --> B[Multiple Linear Regression]
+    B --> C[Regularization]
+    C --> D[Ridge]
+    C --> E[Lasso]
+    D --> F[Logistic Regression]
+    E --> F
+    F --> G[Classification Metrics]
+    G --> H[ROC-AUC]
+    H --> I[Cross Validation]
+    I --> J[Hyperparameter Tuning]
+```
+
+<h2 align="center">Contribution Graph</h2>
+t
 <p align="center">
 
 <picture>
@@ -219,24 +235,3 @@ only using libraries.
 </picture>
 
 </p>
-
-### Currently Exploring
-
-```text
-Linear Regression
-       ↓
-Multiple Linear Regression
-       ↓
-Regularization
-   ↙         ↘
-Ridge       Lasso
-       ↓
-Logistic Regression
-       ↓
-Classification Metrics
-       ↓
-ROC-AUC
-       ↓
-Cross Validation
-       ↓
-Hyperparameter Tuning
